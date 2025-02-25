@@ -20,8 +20,12 @@
   },
   "homepage": "https://github.com/bichitrabehera/forex#readme",
   "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "bcrypt": "^5.1.1",
     "ejs": "^3.1.10",
     "express": "^4.21.2",
-    "mongoose": "^8.10.1"
+    "mongoose": "^8.10.1",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.8"
   }
 }
